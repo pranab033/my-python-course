@@ -1,0 +1,3 @@
+Set are used to store multiple items in asingle variable.
+A set is a collection which is unordered,unchangeable and umindexed.
+Sets are written with curly brackets.

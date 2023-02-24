@@ -1,0 +1,4 @@
+Lists are used to store multiple items in asingle variable.
+List item are ordered,changeable,and allow duplicate values.
+Lists are created using square brackets.
+
